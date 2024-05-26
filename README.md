@@ -58,6 +58,6 @@
 ![Noel's GitHub stats](https://github-readme-stats.vercel.app/api?username=noelmathen&show_icons=true&theme=vue-dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noelmathen&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noelmathen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noelmathen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 [![Noel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=noelmathen&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
