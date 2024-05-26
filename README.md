@@ -1,6 +1,8 @@
+<img src="./whatisagithub.jpg" alt="what is a github?" width="500" height="350">
+
 ### Hi there 👋
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Noel+Mathen+Eldho)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Noel+Mathen+Eldho)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=noelmathen)
 
 **I'm a 3rd year Computer Science and Business Systems student. I have a passion for coding, especially in backend development using Django and Django Rest Framework and web automation using Selenium.**
