@@ -5,16 +5,16 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Noel+Mathen+Eldho)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=noelmathen)
 
-**I'm a 3rd year Computer Science and Business Systems student. I have a passion for coding, especially in backend development using Django and Django Rest Framework and web automation using Selenium.**
+**I'm a final year Computer Science and Business Systems student. I have a passion for coding, especially in backend development using Django and Django Rest Framework and web automation and web testing using Selenium.**
 
 ---
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelmathen/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@user-so2nz5ne9y?si=n1vzwsUbu-e1-Dfb)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23F2A60C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noelmathen03@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/noelmathen/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noelmathen)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@user-so2nz5ne9y?si=n1vzwsUbu-e1-Dfb)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/bt05w7w473f853u2asg6cmi3w?si=1036ba98d9b54e56)
 
 ---
