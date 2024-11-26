@@ -11,7 +11,7 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelmathen/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@user-so2nz5ne9y?si=n1vzwsUbu-e1-Dfb)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@noelmatheneldho?si=HRGeQg5wp6UnPcm5)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23F2A60C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noelmathen03@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/noelmathen/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noelmathen)
