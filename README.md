@@ -5,7 +5,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Noel+Mathen+Eldho)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=noelmathen)
 
-**I'm a final year Computer Science and Business Systems student. I have a passion for coding, especially in backend development using Django and Django Rest Framework and web automation and web testing using Selenium.**
+**B.Tech CSBS graduate | Django backend dev | Selenium automation enthusiast | Exploring AI, ML & Cloud-native tech.**
 
 ---
 
@@ -29,6 +29,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-%23FF6F00.svg?style=for-the-badge&logo=yolo&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
@@ -37,6 +43,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
 ---
 
 ## 💻 Programming Languages
@@ -44,6 +51,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -61,3 +69,14 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noelmathen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 [![Noel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=noelmathen&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+
+
+## 🤝 Let's Connect!
+💡 Open to collaborations!  
+📬 Reach me: [noelmathen03@gmail.com](mailto:noelmathen03@gmail.com)
+
+
+
